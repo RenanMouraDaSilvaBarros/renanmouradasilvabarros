@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-João%20Vasconcelos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-vasconcelos11/)](https://www.linkedin.com/in/joao-vasconcelos11/) 
-[![Gmail Badge](https://img.shields.io/badge/-joaoyama2018@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoyama2018@gmail.com)](mailto:joaoyama2018@gmail.com)
+[![Linkedin Badge](https://www.linkedin.com/in/renan-moura-da-silva-barros-122b05206/) 
+[![Gmail Badge](https://img.shields.io/badge/-joaoyama2018@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoyama2018@gmail.com)](mailto:naneraruom@gmail.com)
 
 My name is Renan, I'm studying computer science (💻).
 
