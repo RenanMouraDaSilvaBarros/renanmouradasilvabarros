@@ -2,8 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-joaoyama2018@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoyama2018@gmail.com)](mailto:joaoyama2018@gmail.com)
 
 My name is Renan, I'm studying computer science (💻).
-
-@@ -11,3 +11,5 @@ In my free time I like to read about technology, play football(⚽) and games on
+In my free time I like to read about technology, play football(⚽) and games on
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanMouraDaSilvaBarros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMouraDaSilvaBarros&layout=compact&langs_count=16&theme=dracula"/>
 </div>
