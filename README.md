@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://www.linkedin.com/in/renan-moura-da-silva-barros-122b05206/) 
-[![Gmail Badge](https://img.shields.io/badge/-joaoyama2018@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoyama2018@gmail.com)](mailto:naneraruom@gmail.com)
+[![Linkedin Badge](https://www.linkedin.com/in/renan-moura-da-silva-barros-122b05206/)
+[![Gmail Badge](https://img.shields.io/badge/-mailto:naneraruom@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:naneraruom@gmail.com)](mailto:naneraruom@gmail.com)
 
 My name is Renan, I'm studying computer science (💻).
 
