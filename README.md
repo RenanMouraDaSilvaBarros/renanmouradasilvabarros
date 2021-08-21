@@ -2,6 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-naneraruom@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naneraruom@gmail.com)](mailto:naneraruom@gmail.com)
 
 My name is Renan, I'm studying computer science (💻).
+I'm a backend developer, passionate about technology.
 
 In my free time I like to read about technology, play football(⚽) and games online, watch movies(🎥) and series(📺).
 
